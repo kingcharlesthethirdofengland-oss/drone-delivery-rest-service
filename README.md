@@ -1,6 +1,6 @@
 # Drone Delivery REST Service
 
-A REST service for a drone delivery system, built as part of my Computer Science degree at the University of Edinburgh.
+A university project for a drone delivery system.
 
 ## What it does
 
